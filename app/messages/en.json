@@ -1,0 +1,13 @@
+{
+    "HomePage": {
+        "hello": "Hello",
+        "title": "Welcome",
+        "description": "This is our website",
+        "about": "About Us"
+    },
+    "Navbar": {
+        "home": "Home",
+        "about": "About Us",
+        "contact": "Contact Us"
+    }
+}
