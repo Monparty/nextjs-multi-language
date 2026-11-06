@@ -9,7 +9,7 @@ function Page({ params }) {
 
     return (
         <div className="p-4">
-            <h1 className="text-4xl p-8 flex justify-center">{t("hello")}</h1>
+            <h1 className="text-4xl p-8 flex justify-center">{t("hello สวัสดีเจ้า")}</h1>
             <h1>{t("title")}</h1>
             <p>{t("description")}</p>
             <button>{t("about")}</button>
